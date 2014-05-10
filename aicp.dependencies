@@ -16,9 +16,9 @@
      "branch":      "cm-11.0"
    },
    {
-    "repository":  "TeamCanjica/android_hardware_u8500",
+    "repository":  "AICP/hardware_u8500",
     "target_path": "hardware/u8500",
-     "branch":      "cm-11.0"
+     "branch":      "kitkat"
    },
    {
     "repository":  "TeamCanjica/android_packages_apps_DeviceSettings",
