@@ -28,6 +28,6 @@
    {
     "repository":  "TeamCanjica/Samsung_STE_Kernel",
     "target_path": "kernel/samsung/u8500",
-     "branch":      "3.0.31"
+     "branch":      "3.0.101"
    }
 ]
